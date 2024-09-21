@@ -1,1 +1,1 @@
-# Tic-Tac-Toe
+A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project features a 3x3 grid where two players take turns marking X or O. The game detects win conditions and declares a winner or a draw. It provides a clean user interface and is fully responsive for different screen sizes.# Tic-Tac-Toe
